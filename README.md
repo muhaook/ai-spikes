@@ -1,0 +1,12 @@
+# AI Spikes
+- LLM
+- AI agent
+- MCP
+- RAP
+- OpenAI
+- LangChain
+- MLflow
+- Wayflow
+- OCI ADK/SDK
+- OTEL Python agent
+- 
